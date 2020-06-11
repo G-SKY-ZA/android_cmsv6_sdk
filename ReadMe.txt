@@ -1,50 +1,19 @@
+Bug Fixes
 
-时间:2020-05-12
-修改内容
-:
-1:增加直连录像搜索和录像回放功能
+1. 1078 device video playback problem.
 
-时间:2020-05-06
-修改内容
-:
-1:回放视频示例修改
+2. Abnormal playback video from storage server.
 
-时间:2020-04-28
-修改内容
-:
-1:存储服务器回放视频异常问题
-时间:2020-04-10
-修改内容
-:
-1:1078设备录像回放问题
+3. When searching for a device with a long license plate number, the parsed data may not be returned with the license plate number, resulting in no playback.
 
-时间:2020-01-10
-修改内容
-:
-1:es工程转as工程
-时间:2020-01-02
-修改内容
-:
-1:存储服务器回放视频异常问题
-2:搜索车牌号过长设备时,返回解析数据可能不带车牌号,导致播放不了
-时间:2019-12-23
+Added Features
 
-修改内容
+1. Abnormal playback video from storage server.
 
-1:修改回放调节进度问题;
-时间:2019-06-18
+2. Added direct connection video search and video playback function.
 
-修改内容
-:
-1:增加直连搜索和视频播放
+3. Added the playback video example.
 
+4. Added the playback adjustment progress problem.
 
-
-
-
-
-
-
-
-
-
+5. Added direct search and video playback.
